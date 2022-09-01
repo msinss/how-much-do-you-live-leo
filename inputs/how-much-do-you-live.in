@@ -1,0 +1,6 @@
+// The program input for how-much-do-you-live/src/main.leo
+[main]
+age: u128 = 20;
+
+[registers]
+r0: u128 = 0;

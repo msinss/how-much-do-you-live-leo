@@ -1,0 +1,8 @@
+[project]
+name = "how-much-do-you-live"
+version = "0.1.0"
+description = "The how-much-do-you-live package"
+license = "MIT"
+
+[remote]
+author = "me1on"
